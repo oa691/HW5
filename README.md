@@ -1,4 +1,10 @@
-# HW5
+
+
+# HW5 Assignment_2
+In this assignment I performed KS AD tests to citybike data for men and women age groups to confirm whether the data are normally distributed or not for normal and poisson distribution functions. Statistical interpretations are provided in the document.
+I followed examples shown on https://github.com/fedhere/UInotebooks/blob/master/oh_my_goodness_of_fit.ipynb
+
+# HW5 Assignment_3
 
 Formulate the Null hypothesis in words and in formulae for the 4 experiments below:
 
